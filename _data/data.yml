@@ -1,0 +1,237 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+header:
+  # Profile information
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  email: mark@markarsenault.tk
+  phone: (289) 801-9355
+  website: https://markarsenault.tk
+  #linkedin: markarsenault
+  github: mark-arsenault
+  gitlab:
+  bitbucket:
+  #twitter: "@stevedoe"
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+languages:
+  - idiom: English
+    level: Native
+#  - idiom: French
+#    level: Professional
+#  - idiom: Spanish
+#    level: Professional
+
+interests:
+  - name: Musician
+    link:
+  - name: Astrophotography
+    link: 
+  - name: Security
+    link:
+
+summary: |
+  I am a computer programmer located in St.Catharines, Ontario looking to 
+  utilize broad knowledge of programming, DevOps, and data manipulation. I consider
+  myself an exellent communicator with strong relationship building skills who works
+  very well in team oriented settings.
+
+  Passionate and dedicated software developer looking to contribute my skills 
+  and expand my knowledge with a company serious about making authenic and innovative
+  technology. TDD and Agile methodology drives my process.
+
+education:
+  - degree: Web & Graphic Design
+    university: Computer Training Institute
+    time: 2000 - 2001 
+    details: |
+      Obtained a diploma in Web Development & Graphic Design with grades
+      above 90% at the time of graduation. Subjects covered a wide range
+      of skill sets and applications.
+        - Graduated with honors
+        - Obtained fundamentals
+experiences:
+  - role: Full Stack Developer
+    time: 2019 - Present
+    company: Self-Employed Freelancer
+    details: |
+      Working as a self-employed freelancer has it's pros and cons.The 
+      ability to choose your next project lets you learn newer, and better,
+      ways of coding & learning new technologies and practices. The cons
+      are that you no longer work with a team, and often there can be
+      unforseen bottlenecks in the process.
+
+      I've spent some considerable time developing a half-dozen alt-coins
+      (crypto curriences) with C++, blockchain, AWS. As well as WordPress,
+      responsive web apps, and GUI design.
+
+        - Client facing interaction
+        - Versiatile full stack developing
+        - Time management, leadership, and responsibility
+
+  - role: Full Stack Developer 
+    time: 2001 - 2006
+    company: Stenek Corporation
+    details: |
+      I was hired by Stenek Co. to innovate & build a B2B web solution
+      for their wholesale distribution division. The project was a huge
+      success. Stenek.com had millions in sales from thousands of businesses
+      in Atlantic Canada. We had all our servers (web,email,data,application)
+      in house, and gave our customer, and vendor accounts, the ability
+      to manage their accounts, and have access to real-time inventory info.
+      Stenek had a retail, and print/copy centre division as well. I managed
+      and worked at the printing divison during this time also.
+    achievements:
+      desc: |
+        My first job as a developer/coder; this job required constant learning,
+        effective communication, and multi-tasking. I was the only IT professional
+        that worked at this company during this time. The company was acquired
+        by TNG in 2010
+        The experience I gained at Stenek was invaluable. 
+    technologies:
+      - ASP/VBScript
+      - Javascript/HTML/CSS
+      - MSSQL & ADO
+      - BlackBerry Enterprise Server
+      - Photoshop/Illustrator/Flash
+      - Windows Server (MS-Exchange/MS-SQL/IIS)
+
+  - role: IT Security Analyst
+    time: 2019 - current
+    company: Freelance
+    details: |
+      Skilled Information Security Analyst with expertise in risk
+      management, unauthorized access, viruses, and a wide range of
+      vulnerabilities and threats. Well-versed in direct and remote
+      analysis with strong critical thinking, communication, and
+      people skills. Able to thrive in fast-paced and challenging
+      environments where accuracy and efficiency matter.
+
+    technologies:
+      - Kali Linux
+      - WireShark & Real-Time Analysis
+      - Wireless & Network Vulnerability
+      - Encryption
+
+  - role: Software Engineer
+    time: 2015 - 2017
+    company: Lotlinx Inc.
+    details: |
+      Developed and maintained systems to manage ad platform integrations,
+      inventory processing and publishing, and reporting APIs. A CD/CI,
+      agile work enviroment that provides amazing product in the automobile
+      marketing industry.
+    technologies:
+      - Web Application Stack
+      - Java
+      - jUnit
+      - JSP & Tomcat
+      - Shell Scripting
+      - PHP
+      - AWS
+      - SQL & Graph Database
+      - Microservices
+      - DevOps
+        
+
+awards:
+  - name: Award Name Lorem
+    description: |
+      Award desc goes here, ultricies nec, pellentesque
+      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+  - name: Award Name Lorem
+    description: |
+      Award desc goes here, ultricies nec, pellentesque
+      eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+
+# Projects are not used in this template for now
+projects:
+  title: Projects
+  intro: >
+    You can list your side projects or open source libraries in this
+    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+    - title: Velocity
+      link: "#hook"
+      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+    - title: DevStudio
+      link: "#"
+      tagline: "A responsive website template designed to help web developers/designers market their services."
+
+    - title: Tempo
+      link: "#"
+      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+    - title: Atom
+      link: "#"
+      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+    - title: Delta
+      link: "#"
+      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# Publications are not used in this template for now
+publications:
+  title: Publications
+  intro: |
+    You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.
+  papers:
+    - title: The Art of Computer Programming
+      link: "#"
+      authors: Donald E. Knuth
+      conference: Addison-Wesley, 1968
+
+    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      link: "#"
+      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+    - title: A syntax directed compiler for Algol 60
+      link: "#"
+      authors: Edgar T. Irons
+      conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+  - category: Backend
+    tools:
+      - name: Vim
+        level: 98%
+      - name: React
+        level: 98%
+      - name: JavaScript
+        level: 98%
+      - name: Node.js
+        level: 95%
+      - name: HTML/CSS/SASS/LESS
+        level: 85%
+  - category: Frontend
+    tools:
+      - name: Python/Django
+        level: 95%
+      - name: Ruby/Rails
+        level: 98%
+      - name: PHP
+        level: 87%
+      - name: WordPress/Shopify
+        level: 92%
+  - category: others
+    tools:
+      - Linux Systems
+      - Windows OS & Mac OS
+      - Microservices
+      - Code Review
+      - Git
+      - TDD
+      - CI/CD
+      - DevOps
+      - Agile Methodologies
+      - S.O.L.I.D Design Principals
+      
+      
