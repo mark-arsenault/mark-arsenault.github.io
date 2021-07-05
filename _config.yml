@@ -8,8 +8,8 @@ author: Mark Arsenault
 tagline: Full Stack Developer
 description: Mark - This is my resume # Longer description for jekyll-seo-tag
 
-url: "https://markarsenault.tk/"
-baseurl: "/resume" # change it according to your repository name
+url: "https://mark-arsenault.github.io"
+baseurl: "/mark-arsenault.github.io" # change it according to your repository name
 
 twitter:
   username: 
