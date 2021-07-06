@@ -20,6 +20,23 @@
   }
 }
 
+.skillbadge {
+  display: inline-block;
+  padding: 0.6em 0.6em;
+  font-size: $badge-font-size;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  @include border-radius($badge-border-radius);
+
+  // Empty badges collapse automatically
+  &:empty {
+    display: none;
+  }
+
+}
 // Quick fix for badges in buttons
 .btn .badge {
   position: relative;

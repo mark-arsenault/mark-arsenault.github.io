@@ -30,19 +30,14 @@ interests:
     link:
   - name: Astrophotography
     link: 
-  - name: Security
+  - name: Pentesting
     link:
 
 summary: |
-  I am a computer programmer located in St.Catharines, Ontario looking to 
-  utilize broad knowledge of programming, DevOps, and data manipulation. I consider
-  myself an exellent communicator with strong relationship building skills who works
-  very well in team oriented settings.
-
-  Passionate and dedicated software developer looking to contribute my skills 
-  and expand my knowledge with a company serious about making authenic and innovative
-  technology. TDD and Agile methodology drives my process.
-
+  10+ years of experiencec in design, development, testing, implementation and maintenance
+  of web applications, web services and APIs using Java and associated technologies.
+  Extensive knowledge in Agile, Scrum, and TDD projects. I pride myself on my communication
+  and strong relationship building skills. 
 education:
   - degree: Web & Graphic Design
     university: Computer Training Institute
@@ -201,26 +196,33 @@ publications:
 skills:
   - category: Backend
     tools:
+      - name: Java
+      - name: Python
+      - name: Shell
+      - name: Javascript
+      - name: PHP
+      - name: C++
+      - name: Nodejs
+      - name: ASP
+      - name: Ruby
+  - category: Tools and Libraries
+    tools:
+      - name: Git, Subversion
       - name: Vim
-        level: 98%
-      - name: React
-        level: 98%
-      - name: JavaScript
-        level: 98%
-      - name: Node.js
-        level: 95%
-      - name: HTML/CSS/SASS/LESS
-        level: 85%
+      - name: Linux(from top to bottom)
+      - name: Netbeans, PyCharm, IntelliJ
+      - name: Android Studio
+      - name: Docker, Kubernetes
+      - name: Jira, Maven, jUnit
+      - name: Django, robot
+      - name: Adobe Photoshop & Premiere
+      - name: WordPress
   - category: Frontend
     tools:
-      - name: Python/Django
-        level: 95%
-      - name: Ruby/Rails
-        level: 98%
-      - name: PHP
-        level: 87%
-      - name: WordPress/Shopify
-        level: 92%
+      - name: HTML5/CSS3
+      - name: Javascript
+      - name: SASS/LESS
+      - name: WordPress
   - category: others
     tools:
       - Linux Systems
@@ -234,4 +236,4 @@ skills:
       - Agile Methodologies
       - S.O.L.I.D Design Principals
       
-      
+     
