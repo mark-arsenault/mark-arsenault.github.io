@@ -67,6 +67,47 @@ experiences:
         - Versiatile full stack developing
         - Time management, leadership, and responsibility
 
+  - role: IT Security Analyst
+    time: 2019 - current
+    company: Freelance
+    details: |
+      Skilled Information Security Analyst with expertise in risk
+      management, unauthorized access, viruses, and a wide range of
+      vulnerabilities and threats. Well-versed in direct and remote
+      analysis with strong critical thinking, communication, and
+      people skills. Able to thrive in fast-paced and challenging
+      environments where accuracy and efficiency matter.
+
+    technologies:
+      - Kali Linux
+      - WireShark
+      - Real-Time Analysis
+      - Wireless Sec.
+      - Pentesting
+      - Stress testing  
+      - Encryption
+
+  - role: Software Engineer
+    time: 2015 - 2017
+    company: Lotlinx Inc.
+    details: |
+      Developed and maintained systems to manage ad platform integrations,
+      inventory processing and publishing, and reporting APIs. A CD/CI,
+      agile work enviroment that provides amazing product in the automobile
+      marketing industry.
+    technologies:
+      - Web Application Stack
+      - Java
+      - jUnit
+      - JSP & Tomcat
+      - Shell Scripting
+      - PHP
+      - AWS
+      - SQL
+      - Graph Database
+      - Microservices
+      - DevOps
+
   - role: Full Stack Developer 
     time: 2001 - 2006
     company: Stenek Corporation
@@ -88,11 +129,59 @@ experiences:
         The experience I gained at Stenek was invaluable. 
     technologies:
       - ASP/VBScript
-      - Javascript/HTML/CSS
-      - MSSQL & ADO
-      - BlackBerry Enterprise Server
-      - Photoshop/Illustrator/Flash
-      - Windows Server (MS-Exchange/MS-SQL/IIS)
+      - ASP.NET
+      - Javascipt
+      - HTML
+      - CSS
+      - MySQL
+      - IIS
+      - Windows Servers
+      - Blackberry Web Apps
+      - Photoshop
+      - Illustrator
+      - Offset Press
+      - High Volume Printing
+
+  - role: Web Developer
+    time: 2010 - 2012
+    company: VERB Interactive
+    details: |
+      Worked here as a web developer, with a lot of emphisis on front end
+      design. VERB is a marketing company thats primary focus is the hospitality
+      industry. Some notable clients include Pebble Beach, and Nassau Paradise
+      island.
+
+    technologies:
+      - PHP
+      - JavaScript
+      - MySQL
+      - C#
+      - Photoshop
+      - Illustrator
+      - Flash
+      - Wordpress
+      - Joomla!
+      - HTML
+      - CSS
+      - SEO
+      - DevOps
+
+  - role: Programmer & Junior DBA
+    time: 2007 - 2009
+    company: Tarasoft
+    details: |
+      Worked as a developer on MLS software; then became one of the two
+      MySQL Database Administrators. I was initially brough on to help
+      migrate the technical side of the company to MySQL, and then stayed 
+      on for a year afterwards.
+
+    technologies:
+      - C#
+      - PHP 
+      - Subversion
+      - MySQL
+      - PostgreSQL
+      - Linux
 
   - role: IT Security Analyst
     time: 2019 - current
@@ -107,30 +196,13 @@ experiences:
 
     technologies:
       - Kali Linux
-      - WireShark & Real-Time Analysis
-      - Wireless & Network Vulnerability
+      - WireShark
+      - Real-Time Analysis
+      - Wireless Sec.
+      - Pentesting
+      - Stress testing  
       - Encryption
 
-  - role: Software Engineer
-    time: 2015 - 2017
-    company: Lotlinx Inc.
-    details: |
-      Developed and maintained systems to manage ad platform integrations,
-      inventory processing and publishing, and reporting APIs. A CD/CI,
-      agile work enviroment that provides amazing product in the automobile
-      marketing industry.
-    technologies:
-      - Web Application Stack
-      - Java
-      - jUnit
-      - JSP & Tomcat
-      - Shell Scripting
-      - PHP
-      - AWS
-      - SQL & Graph Database
-      - Microservices
-      - DevOps
-        
 
 awards:
   - name: Award Name Lorem
