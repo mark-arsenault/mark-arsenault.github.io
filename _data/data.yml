@@ -34,10 +34,12 @@ interests:
     link:
 
 summary: |
-  10+ years of experiencec in design, development, testing, implementation and maintenance
-  of web applications, web services and APIs using Java and associated technologies.
-  Extensive knowledge in Agile, Scrum, and TDD projects. I pride myself on my communication
+  10+ years of experience in design, development, testing, implementation and maintenance
+  of web applications, web services and APIs using a variety of technologies.
+  Extensive knowledge in Agile, Scrum, and TDD methodologies. I pride myself on my communication
   and strong relationship building skills. 
+
+
 education:
   - degree: Web & Graphic Design
     university: Computer Training Institute
@@ -53,15 +55,15 @@ experiences:
     time: 2019 - Present
     company: Self-Employed Freelancer
     details: |
-      Working as a self-employed freelancer has it's pros and cons.The 
-      ability to choose your next project lets you learn newer, and better,
-      ways of coding & learning new technologies and practices. The cons
-      are that you no longer work with a team, and often there can be
-      unforseen bottlenecks in the process.
+      Working as a freelancer has allowed me to work on a number of different
+	  technologies in different markets. It's also given me the freedom to 
+	  strengthen my versitility in different areas of design and development,
+	  make though decisions, and to meet deadlines.
 
-      I've spent some considerable time developing a half-dozen alt-coins
-      (crypto curriences) with C++, blockchain, AWS. As well as WordPress,
-      responsive web apps, and GUI design.
+      I've spent considerable time developing in the cryptocurreny & blockchain
+	  community. Building, and deploying a number of Altcoins (crypto curriences)
+	  with C++, blockchain, AWS. As well as WordPress, responsive web apps, and 
+	  GUI design.
 
         - Client facing interaction
         - Versiatile full stack developing
@@ -112,13 +114,15 @@ experiences:
     time: 2001 - 2006
     company: Stenek Corporation
     details: |
-      I was hired by Stenek Co. to innovate & build a B2B web solution
+      I was hired by Stenek to innovate and build a B2B web solution
       for their wholesale distribution division. The project was a huge
-      success. Stenek.com had millions in sales from thousands of businesses
+      undertaking, and even bigger success. Stenek.com had millions in sales 
+	  from thousands of businesses
       in Atlantic Canada. We had all our servers (web,email,data,application)
-      in house, and gave our customer, and vendor accounts, the ability
+      in house, and gave our customer and vendor accounts the ability
       to manage their accounts, and have access to real-time inventory info.
-      Stenek had a retail, and print/copy centre division as well. I managed
+	  
+      Stenek had a retail, and print/copy centre division as well. I managed,
       and worked at the printing divison during this time also.
     achievements:
       desc: |
@@ -171,9 +175,9 @@ experiences:
     company: Tarasoft
     details: |
       Worked as a developer on MLS software; then became one of the two
-      MySQL Database Administrators. I was initially brough on to help
-      migrate the technical side of the company to MySQL, and then stayed 
-      on for a year afterwards.
+      MySQL database administrators. I was initially brough on to help
+      migrate to MySQL, and then stayed on for a year afterwards as 
+	  a DBA and coders.
 
     technologies:
       - C#
@@ -182,27 +186,6 @@ experiences:
       - MySQL
       - PostgreSQL
       - Linux
-
-  - role: IT Security Analyst
-    time: 2019 - current
-    company: Freelance
-    details: |
-      Skilled Information Security Analyst with expertise in risk
-      management, unauthorized access, viruses, and a wide range of
-      vulnerabilities and threats. Well-versed in direct and remote
-      analysis with strong critical thinking, communication, and
-      people skills. Able to thrive in fast-paced and challenging
-      environments where accuracy and efficiency matter.
-
-    technologies:
-      - Kali Linux
-      - WireShark
-      - Real-Time Analysis
-      - Wireless Sec.
-      - Pentesting
-      - Stress testing  
-      - Encryption
-
 
 awards:
   - name: Award Name Lorem
