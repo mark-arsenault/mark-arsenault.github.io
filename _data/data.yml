@@ -6,11 +6,11 @@ header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
   email: mark@markarsenault.tk
-  phone: (289) 801-9355
+  phone: (289) 969-3268
   website: https://markarsenault.tk
   #linkedin: markarsenault
   github: mark-arsenault
-  gitlab:
+  gitlab: mark-arrsenault
   bitbucket:
   #twitter: "@stevedoe"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -50,20 +50,22 @@ education:
       of skill sets and applications.
         - Graduated with honors
         - Obtained fundamentals
+
 experiences:
+
   - role: Full Stack Developer
     time: 2019 - Present
     company: Self-Employed Freelancer
     details: |
       Working as a freelancer has allowed me to work on a number of different
-	  technologies in different markets. It's also given me the freedom to 
-	  strengthen my versitility in different areas of design and development,
-	  make though decisions, and to meet deadlines.
+      technologies in different markets. It's also given me the freedom to
+      strengthen my versitility in different areas of design and development,
+      make though decisions, and to meet deadlines.
 
       I've spent considerable time developing in the cryptocurreny & blockchain
-	  community. Building, and deploying a number of Altcoins (crypto curriences)
-	  with C++, blockchain, AWS. As well as WordPress, responsive web apps, and 
-	  GUI design.
+      community. Building, and deploying a number of Altcoins (crypto curriences)
+      with C++, blockchain, AWS. As well as WordPress, responsive web apps, and
+      GUI design.
 
         - Client facing interaction
         - Versiatile full stack developing
@@ -117,11 +119,10 @@ experiences:
       I was hired by Stenek to innovate and build a B2B web solution
       for their wholesale distribution division. The project was a huge
       undertaking, and even bigger success. Stenek.com had millions in sales 
-	  from thousands of businesses
-      in Atlantic Canada. We had all our servers (web,email,data,application)
-      in house, and gave our customer and vendor accounts the ability
-      to manage their accounts, and have access to real-time inventory info.
-	  
+      from thousands of businesses in Atlantic Canada. We had all our servers 
+      (web,email,data,application) in house, and gave our customer and vendor
+      accounts the ability to completely manage their accounts from online.
+
       Stenek had a retail, and print/copy centre division as well. I managed,
       and worked at the printing divison during this time also.
     achievements:
@@ -177,7 +178,7 @@ experiences:
       Worked as a developer on MLS software; then became one of the two
       MySQL database administrators. I was initially brough on to help
       migrate to MySQL, and then stayed on for a year afterwards as 
-	  a DBA and coders.
+      a DBA and coder.
 
     technologies:
       - C#
