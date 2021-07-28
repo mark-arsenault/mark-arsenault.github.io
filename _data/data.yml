@@ -1,7 +1,6 @@
 
 header:
-  # Profile information
-  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.jpg 
   email: mark@markarsenault.tk
   phone: (289) 969-3268
   website: https://markarsenault.tk
