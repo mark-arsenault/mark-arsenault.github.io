@@ -61,12 +61,11 @@ experiences:
     time: 2019 - current
     company: Freelance
     details: |
-      Skilled Information Security Analyst with expertise in risk
-      management, unauthorized access, viruses, and a wide range of
-      vulnerabilities and threats. Well-versed in direct and remote
-      analysis with strong critical thinking, communication, and
-      people skills. Able to thrive in fast-paced and challenging
-      environments where accuracy and efficiency matter.
+      Independent consultant working with multiple clients, designing and implementing security-based 
+      solutions to their information systems. Dealing with ransomware, unauthorized access, viruses, 
+      and a wide range of vulnerabilities and threats. Well-versed in direct and remote analysis with
+      strong critical thinking, communication, and people skills. Able to thrive in fast-paced and 
+      challenging environments where accuracy and efficiency matter.
 
     technologies:
       - Kali Linux
@@ -81,10 +80,10 @@ experiences:
     time: 2015 - 2017
     company: Lotlinx Inc.
     details: |
-      Developed and maintained systems to manage ad platform integrations,
-      inventory processing and publishing, and reporting APIs. A CD/CI,
-      agile work environment that provides amazing product in the automobile
-      marketing industry.
+      Developed and maintained systems to manage ad platform integrations, inventory processing and 
+      publishing, and reporting APIs. A CD/CI, agile work environment that provides amazing product 
+      in the automobile marketing industry.
+
     technologies:
       - Web Application Stack
       - Java
@@ -102,15 +101,14 @@ experiences:
     time: 2001 - 2006
     company: Stenek Corporation
     details: |
-      I was hired by Stenek to innovate and build a B2B web solution
-      for their wholesale distribution division. The project was a huge
-      undertaking, and even bigger success. Stenek.com had millions in sales 
-      from thousands of businesses in Atlantic Canada. We had all our servers 
-      (web,email,data,application) in house, and gave our customer and vendor
-      accounts the ability to completely manage their accounts from online.
+      I was hired by Stenek to innovate and develope a business-to-business web solution for their 
+      wholesale distribution division. The project was a huge success that revolutionized the company. 
+      Stenek.com handled millions in sales from thousands of businesses in Atlantic Canada. All 
+      infrastructure(Web,Email,Data, and Application Servers) were in house, and my responsibility.
 
-      Stenek had a retail, and print/copy centre division as well. I managed,
-      and worked at the printing division during this time also.
+      Stenek had an office supply retail division, and a print/copy centre division as well. I managed,
+      and worked, at the printing division (Print-Xperts during this time also.Stenek had a retail, 
+      and print/copy centre division as well.
     achievements:
       desc: |
         My first job as a developer/coder; this job required constant learning,
@@ -121,14 +119,14 @@ experiences:
     technologies:
       - ASP/VBScript
       - ASP.NET
-      - Javascipt
+      - JavaScript
       - HTML
       - CSS
       - MySQL
       - IIS
       - Windows Servers
       - Blackberry Web Apps
-      - Photoshop
+      - Adobe Photoshop
       - Illustrator
       - Offset Press
       - High Volume Printing
