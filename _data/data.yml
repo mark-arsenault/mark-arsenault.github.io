@@ -21,16 +21,15 @@ interests:
     link:
 
 summary: |
-  Hi, my name is Mark Arsenault. I live in St. Catharines Ontario and work out of a home office.
-  For many years I have had a deep passion for coding, web development, and dev culture. I have 
-  recently been working as a freelance developer, while simultaniously contributing to a number
-  of open-source projects. <br><br>
-
-  10+ years of experience in design, development, testing, implementation and maintenance
-  of web applications, web services and APIs using a variety of technologies.
-  Extensive knowledge in Agile, Scrum, and TDD methodologies. I pride myself on my communication
-  and strong relationship building skills. 
-
+  Hi, I'm Mark. I live and work out of my Niagara Region home office. This page has a basic 
+  snapshot of my work history, skills, and some general information on what I do. I currently 
+  have been doing freelance work, as well as contributing to a number of OSS (Open-Source) 
+  projects. <br><br>
+  
+  15+ years of experience in design, development, testing, implementation and maintenance of 
+  web applications, web services and APIs using a variety of technologies. Extensive knowledge 
+  in Agile, Scrum, and TDD methodologies. I pride myself on my communication and strong 
+  relationship building skills. 
 
 education:
   - degree: Web & Graphic Design
@@ -51,10 +50,10 @@ experiences:
     details: |
       Working as a freelancer has allowed me to work on a number of different
       technologies in different markets. It's also given me the freedom to
-      strengthen my versitility in different areas of design and development,
+      strengthen my versatility in different areas of design and development,
       make though decisions, and to meet deadlines.
 
-      I've spent considerable time developing in the cryptocurreny & blockchain
+      I've spent considerable time developing in the cryptocurrency & blockchain
       community. Building, and deploying a number of Altcoins (crypto curriences)
       with C++, blockchain, AWS. As well as WordPress, responsive web apps, and
       GUI design.
