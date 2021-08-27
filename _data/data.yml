@@ -22,7 +22,7 @@ interests:
 
 summary: |
   Hi, I'm Mark. I live and work out of my Niagara Region home office. This page has a basic 
-  snapshot of my work history, skills, and some general information on what I do. I currently 
+  snapshot of my work history, skills, and some general information on what I do. Currently I
   have been doing freelance work, as well as contributing to a number of OSS (Open-Source) 
   projects. <br><br>
   
@@ -53,10 +53,10 @@ experiences:
       strengthen my versatility in different areas of design and development,
       make though decisions, and to meet deadlines.
 
-      I've spent considerable time developing in the cryptocurrency & blockchain
-      community. Building, and deploying a number of Altcoins (crypto curriences)
+      I've spent considerable time developing in the cryptocurreny & blockchain
+      community. Building, and deploying a number of Altcoins (crypto currencies)
       with C++, blockchain, AWS. As well as WordPress, responsive web apps, and
-      GUI design.
+      GUI design.c
 
         - Client facing interaction
         - Versiatile full stack developing
@@ -88,7 +88,7 @@ experiences:
     details: |
       Developed and maintained systems to manage ad platform integrations,
       inventory processing and publishing, and reporting APIs. A CD/CI,
-      agile work enviroment that provides amazing product in the automobile
+      agile work environment that provides amazing product in the automobile
       marketing industry.
     technologies:
       - Web Application Stack
@@ -115,7 +115,7 @@ experiences:
       accounts the ability to completely manage their accounts from online.
 
       Stenek had a retail, and print/copy centre division as well. I managed,
-      and worked at the printing divison during this time also.
+      and worked at the printing division during this time also.
     achievements:
       desc: |
         My first job as a developer/coder; this job required constant learning,
@@ -142,7 +142,7 @@ experiences:
     time: 2010 - 2012
     company: VERB Interactive
     details: |
-      Worked here as a web developer, with a lot of emphisis on front end
+      Worked here as a web developer, with a lot of emphasis on front end
       design. VERB is a marketing company thats primary focus is the hospitality
       industry. Some notable clients include Pebble Beach, and Nassau Paradise
       island.
@@ -167,7 +167,7 @@ experiences:
     company: Tarasoft
     details: |
       Worked as a developer on MLS software; then became one of the two
-      MySQL database administrators. I was initially brough on to help
+      MySQL database administrators. I was initially brought on to help
       migrate to MySQL, and then stayed on for a year afterwards as 
       a DBA and coder.
 
