@@ -104,17 +104,16 @@ experiences:
       I was hired by Stenek to innovate and develope a business-to-business web solution for their 
       wholesale distribution division. The project was a huge success that revolutionized the company. 
       Stenek.com handled millions in sales from thousands of businesses in Atlantic Canada. All 
-      infrastructure(Web,Email,Data, and Application Servers) were in house, and my responsibility.
+      infrastructure (Web, Email, Data, and Application Servers) was in house, and my responsibility.
 
       Stenek had an office supply retail division, and a print/copy centre division as well. I managed,
-      and worked, at the printing division (Print-Xperts during this time also.Stenek had a retail, 
-      and print/copy centre division as well.
+      and worked at the printing division during my time at Stenek Corporation.
     achievements:
       desc: |
-        My first job as a developer/coder; this job required constant learning,
-        effective communication, and multi-tasking. I was the only IT professional
-        that worked at this company during this time. The company was acquired
-        by TNG in 2010
+        My first professional outing as a developer/coder; this job required constant learning, effective 
+        communication, and multi-tasking. I was the ONLY IT professional that worked at this company up 
+        until it's acquisition by logistics giant TNG in 2010.<br><br>
+
         The experience I gained at Stenek was invaluable. 
     technologies:
       - ASP/VBScript
@@ -135,11 +134,9 @@ experiences:
     time: 2010 - 2012
     company: VERB Interactive
     details: |
-      Worked here as a web developer, with a lot of emphasis on front end
-      design. VERB is a marketing company thats primary focus is the hospitality
-      industry. Some notable clients include Pebble Beach, and Nassau Paradise
-      island.
-
+      Worked here as a Web Developer, Graphic Designer, with a lot of emphasis on front end design, and
+      marketing Call-To-Actions. VERB is a marketing agency who's primary focus is the tourism, and 
+      hospitality industry. Some notable clients include Pebble Beach, and Nassau Paradise Island.
     technologies:
       - PHP
       - JavaScript
@@ -149,6 +146,7 @@ experiences:
       - Illustrator
       - Flash
       - Wordpress
+      - Drupal
       - Joomla!
       - HTML
       - CSS
@@ -159,11 +157,9 @@ experiences:
     time: 2007 - 2009
     company: Tarasoft
     details: |
-      Worked as a developer on MLS software; then became one of the two
-      MySQL database administrators. I was initially brought on to help
-      migrate to MySQL, and then stayed on for a year afterwards as 
-      a DBA and coder.
-
+      Worked as a developer on Tarasoft’s Matrix product; then became one of the two MySQL database 
+      administrators. I was initially brought on to help migrate to MySQL, and then stayed on for a 
+      year afterwards as a DBA and coder.
     technologies:
       - C#
       - PHP 
