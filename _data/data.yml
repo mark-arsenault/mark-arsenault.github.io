@@ -174,37 +174,36 @@ skills:
       - name: Java
       - name: Python
       - name: Shell
-      - name: Javascript
+      - name: JavaScript
+      - name: HTML5
+      - name: CSS3
+      - name: Sass/LESS
       - name: PHP
+      - name: NodeJS
       - name: C++
-      - name: Nodejs
       - name: ASP
       - name: Ruby
   - category: Tools and Libraries
     tools:
-      - name: Git, Subversion
+      - name: Git
       - name: Vim
-      - name: Linux(from top to bottom)
-      - name: Netbeans, PyCharm, IntelliJ
+      - name: Netbeans
+      - name: PyCharm 
+      - name: Visual Studio Code
       - name: Android Studio
-      - name: Docker, Kubernetes
+      - name: Docker
+      - name: Kubernetes
       - name: Jira, Maven, jUnit
       - name: Django, robot
-      - name: Adobe Photoshop & Premiere
+      - name: Adobe Photoshop
       - name: WordPress
-  - category: Frontend
-    tools:
-      - name: HTML5/CSS3
-      - name: Javascript
-      - name: SASS/LESS
-      - name: WordPress
+      - name: Drupal
+      - name: Joomla!
   - category: others
     tools:
       - Linux Systems
       - Windows OS & Mac OS
-      - Microservices
       - Code Review
-      - Git
       - TDD
       - CI/CD
       - DevOps

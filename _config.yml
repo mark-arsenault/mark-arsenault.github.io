@@ -5,8 +5,8 @@
 # SEO plugin
 title: Mark Arsenault
 author: Mark Arsenault
-tagline: Full Stack Developer
-description: My name is Mark, and this is my resume. # Longer description for jekyll-seo-tag
+tagline: Software Developer/Forever Student
+description: I'm Mark, and this is my resume. # Longer description for jekyll-seo-tag
 
 url: "https://mark-arsenault.github.io"
 baseurl: "/mark-arsenault.github.io" # change it according to your repository name
