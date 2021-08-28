@@ -168,6 +168,39 @@ experiences:
       - PostgreSQL
       - Linux
 
+  - role: Full Stack Developer 
+    time: 2001 - 2006
+    company: Stenek Corporation
+    details: |
+      I was hired by Stenek to innovate and develope a business-to-business web solution for their 
+      wholesale distribution division. The project was a huge success that revolutionized the company. 
+      Stenek.com handled millions in sales from thousands of businesses in Atlantic Canada. All 
+      infrastructure (Web, Email, Data, and Application Servers) was in house, and my responsibility.
+
+      Stenek had an office supply retail division, and a print/copy centre division as well. I managed,
+      and worked at the printing division during my time at Stenek Corporation.
+    achievements:
+      desc: |
+        My first professional outing as a developer/coder; this job required constant learning, effective 
+        communication, and multi-tasking. I was the ONLY IT professional that worked at this company up 
+        until it's acquisition by logistics giant TNG in 2010.<br><br>
+
+        The experience I gained at Stenek was invaluable. 
+    technologies:
+      - ASP/VBScript
+      - ASP.NET
+      - JavaScript
+      - HTML
+      - CSS
+      - MySQL
+      - IIS
+      - Windows Servers
+      - Blackberry Web Apps
+      - Adobe Photoshop
+      - Illustrator
+      - Offset Press
+      - High Volume Printing
+      
 skills:
   - category: Backend
     tools:
