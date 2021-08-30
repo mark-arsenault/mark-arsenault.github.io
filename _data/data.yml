@@ -74,8 +74,18 @@ experiences:
       - Stress testing  
       - Encryption
 
+  - role: Web Developer
+    time: 2015 - 2016
+    company: FPM3
+    details: |
+      Designed and developed web applications and user interface for various clients. Projects ranged
+      from setting the backend of e-commerce websites using Magento, to fixing site-related design 
+      problems and took the initiative to implement new features based on feedback from users. 
+    technologies:
+      - Linux
+
   - role: Software Engineer
-    time: 2015 - 2017
+    time: 2014 - 2017
     company: Lotlinx Inc.
     details: |
       Developed and maintained systems to manage ad platform integrations, inventory processing and 
@@ -94,39 +104,6 @@ experiences:
       - Graph Database
       - Microservices
       - DevOps
-
-  - role: Full Stack Developer 
-    time: 2001 - 2006
-    company: Stenek Corporation
-    details: |
-      I was hired by Stenek to innovate and develope a business-to-business web solution for their 
-      wholesale distribution division. The project was a huge success that revolutionized the company. 
-      Stenek.com handled millions in sales from thousands of businesses in Atlantic Canada. All 
-      infrastructure (Web, Email, Data, and Application Servers) was in house, and my responsibility.
-
-      Stenek had an office supply retail division, and a print/copy centre division as well. I managed,
-      and worked at the printing division during my time at Stenek Corporation.
-    achievements:
-      desc: |
-        My first professional outing as a developer/coder; this job required constant learning, effective 
-        communication, and multi-tasking. I was the ONLY IT professional that worked at this company up 
-        until it's acquisition by logistics giant TNG in 2010.<br><br>
-
-        The experience I gained at Stenek was invaluable. 
-    technologies:
-      - ASP/VBScript
-      - ASP.NET
-      - JavaScript
-      - HTML
-      - CSS
-      - MySQL
-      - IIS
-      - Windows Servers
-      - Blackberry Web Apps
-      - Adobe Photoshop
-      - Illustrator
-      - Offset Press
-      - High Volume Printing
 
   - role: Web Developer
     time: 2010 - 2012
@@ -152,12 +129,44 @@ experiences:
       - DevOps
 
   - role: Programmer & Junior DBA
-    time: 2007 - 2009
+    time: 2006 - 2007
     company: Tarasoft
     details: |
       Worked as a developer on Tarasoft’s Matrix product; then became one of the two MySQL database 
-      administrators. I was initially brought on to help migrate to MySQL, and then stayed on for a 
-      year afterwards as a DBA and coder.
+      administrators. I was initially brought on to help migrate to MySQL, then signed a new contract
+      for an additional year.
+    technologies:
+      - C#
+      - PHP 
+      - Subversion
+      - MySQL
+      - PostgreSQL
+      - Linux
+
+  - role: Web Developer
+    time: 2009 - 2010
+    company: Compare Cellular
+    details: |
+      Worked as a developer on Tarasoft’s Matrix product; then became one of the two MySQL database 
+    technologies:
+      - Linux
+
+  - role: Software Developer
+    time: 2007-2008
+    company: Ingenious Software
+    details: |
+      Wrote functional specifications for enhancements to a unified Management System for volunteer,
+      composite, and full-time Fire Departments. Was also involved in migrating the pre-existing
+      codebase into C#, and MySQL.
+    technologies:
+
+  - role: Programmer & Junior DBA
+    time: 2006 - 2007
+    company: Tarasoft
+    details: |
+      Worked as a developer on Tarasoft’s Matrix product; then became one of the two MySQL database 
+      administrators. I was initially brought on to help migrate to MySQL, then signed a new contract
+      for an additional year.
     technologies:
       - C#
       - PHP 
