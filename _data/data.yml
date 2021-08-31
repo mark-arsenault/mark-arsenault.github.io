@@ -74,16 +74,6 @@ experiences:
       - Stress testing  
       - Encryption
 
-  - role: Web Developer
-    time: 2015 - 2016
-    company: FPM3
-    details: |
-      Designed and developed web applications and user interface for various clients. Projects ranged
-      from setting the backend of e-commerce websites using Magento, to fixing site-related design 
-      problems and took the initiative to implement new features based on feedback from users. 
-    technologies:
-      - Linux
-
   - role: Software Engineer
     time: 2014 - 2017
     company: Lotlinx Inc.
@@ -104,6 +94,14 @@ experiences:
       - Graph Database
       - Microservices
       - DevOps
+
+  - role: Web Developer
+    time: 2015 - 2016
+    company: FPM3
+    details: |
+      Designed and developed web applications and user interface for various clients. Projects ranged
+      from setting the backend of e-commerce websites using Magento, to fixing site-related design 
+      problems and took the initiative to implement new features based on feedback from users. 
 
   - role: Web Developer
     time: 2010 - 2012
