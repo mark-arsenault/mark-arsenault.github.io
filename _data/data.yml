@@ -128,28 +128,14 @@ experiences:
       - SEO
       - DevOps
 
-  - role: Programmer & Junior DBA
-    time: 2006 - 2007
-    company: Tarasoft
-    details: |
-      Worked as a developer on Tarasoft’s Matrix product; then became one of the two MySQL database 
-      administrators. I was initially brought on to help migrate to MySQL, then signed a new contract
-      for an additional year.
-    technologies:
-      - C#
-      - PHP 
-      - Subversion
-      - MySQL
-      - PostgreSQL
-      - Linux
-
   - role: Web Developer
     time: 2009 - 2010
     company: Compare Cellular
     details: |
-      Worked as a developer on Tarasoft’s Matrix product; then became one of the two MySQL database 
+      Was part of a team that developed and maintained a comparative cellular rates service & APIs.
+      Our two main clients were (but not exclusively) Best Buy & Futureshop. Followed strict standards
+      and managed code base.
     technologies:
-      - Linux
 
   - role: Software Developer
     time: 2007-2008
