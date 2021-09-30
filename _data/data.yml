@@ -217,7 +217,7 @@ skills:
       - name: Docker
       - name: Kubernetes
       - name: Jira, Maven, jUnit
-      - name: Django, robot
+      - name: Django
       - name: Adobe Photoshop
       - name: WordPress
       - name: Drupal
