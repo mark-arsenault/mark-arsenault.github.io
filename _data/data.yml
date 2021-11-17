@@ -2,9 +2,9 @@
 header:
   avatar: profile.jpg 
   email: mark@markarsenault.tk
-  phone: (289) 969-3268
   website: https://markarsenault.tk
-  linkedin: mark-arsenault
+  phone: 289.969.32**
+# linkedin: mark-arsenault
   github: mark-arsenault
  
 languages:
@@ -115,6 +115,11 @@ experiences:
       Our two main clients were (but not exclusively) Best Buy & Futureshop. Followed strict standards
       and managed code base.
     technologies:
+      - C#
+      - PHP 
+      - Subversion
+      - MySQL
+      - PostgreSQL
 
   - role: Software Developer
     time: 2007-2008
@@ -124,6 +129,12 @@ experiences:
       composite, and full-time Fire Departments. Was also involved in migrating the pre-existing
       codebase into C#, and MySQL.
     technologies:
+      - C#
+      - PHP 
+      - Subversion
+      - MySQL
+      - PostgreSQL
+      - Linux
 
   - role: Programmer & Junior DBA
     time: 2006 - 2007
@@ -199,7 +210,7 @@ skills:
       - name: Docker
       - name: Kubernetes
       - name: Jira, Maven, jUnit
-      - name: Django, robot
+      - name: Django
       - name: Adobe Photoshop
       - name: WordPress
       - name: Drupal
