@@ -20,7 +20,7 @@ interests:
     link:
 
 summary: |
-  Hi, I'm Mark. I live and work out of my Niagara Region home office. This page has a basic 
+  Hi, I'm Mark. I live and work out of St. Catharines Ontario. This page has a basic 
   snapshot of my work history, skills, and some general information on what I do. Currently I
   have been doing freelance work, as well as contributing to a number of OSS (Open-Source) 
   projects. <br><br>
@@ -55,27 +55,8 @@ experiences:
         - Versatile full stack developing
         - Time management, leadership, and responsibility
 
-  - role: IT Security Analyst
-    time: 2019 - current
-    company: Freelance
-    details: |
-      Independent consultant working with multiple clients, designing and implementing security-based 
-      solutions to their information systems. Dealing with ransomware, unauthorized access, viruses, 
-      and a wide range of vulnerabilities and threats. Well-versed in direct and remote analysis with
-      strong critical thinking, communication, and people skills. Able to thrive in fast-paced and 
-      challenging environments where accuracy and efficiency matter.
-
-    technologies:
-      - Kali Linux
-      - WireShark
-      - Real-Time Analysis
-      - Wireless Sec.
-      - Pentesting
-      - Stress testing  
-      - Encryption
-
   - role: Software Engineer
-    time: 2014 - 2017
+    time: 2014 - 2019
     company: Lotlinx Inc.
     details: |
       Developed and maintained systems to manage ad platform integrations, inventory processing and 
@@ -181,6 +162,7 @@ experiences:
       - ASP/VBScript
       - ASP.NET
       - JavaScript
+      - C#.NET
       - HTML
       - CSS
       - MySQL
@@ -189,7 +171,6 @@ experiences:
       - Blackberry Web Apps
       - Adobe Photoshop
       - Illustrator
-      - Offset Press
       - High Volume Printing
       
 skills:
@@ -205,7 +186,7 @@ skills:
       - name: PHP
       - name: NodeJS
       - name: C++
-      - name: ASP
+      - name: C#
       - name: Ruby
   - category: Tools and Libraries
     tools:
